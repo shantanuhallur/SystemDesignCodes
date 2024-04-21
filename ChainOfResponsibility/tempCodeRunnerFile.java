@@ -1,0 +1,1 @@
+    Handler o1 = new RealHandler1(null);
